@@ -1,7 +1,7 @@
 package main
 
 /*
-#cgo LDFLAGS: -ljq
+#cgo LDFLAGS: -ljq -all-static
 #include <jq.h>
 */
 import "C"
